@@ -1,37 +1,41 @@
-# Hi, I'm Aqil Mehaboob 👋
+# Hi, I'm Aqil Mehaboob
 
-Welcome to my GitHub profile!
+Backend Python Developer | Flask • PostgreSQL • JWT • SQLAlchemy
 
-## About Me
-
-I'm making an exciting transition from the aviation industry, where I worked as a customer service agent on the groundstaff, into the world of technology. My journey into tech began with learning Python, and I'm passionate about building efficient systems and continuously growing my skills.
-
-## Skills
-
-- **Python Fundamentals**
-- **Logical Thinking**
-- **Problem Solving**
-- **Communication**
-- **Time Management**
-
-## Featured Project
-
-**Contact Book**  
-A simple Python project that helps efficiently manage and organize contacts. (Feel free to add a repository link if you have one!)
-
-## Career Journey
-
-I started my professional path in customer service, where I honed my communication and time management skills. Inspired by the potential of technology, I took my first steps into coding with Python, and I'm excited to keep learning and building.
-
-## Hobbies
-
-- Reading
-- Walking
-
-## Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/aqil-m-a30ab41b9)
+I build secure REST APIs with clean architecture and real authentication.
+Currently open to junior backend roles and internships.
 
 ---
 
-*Aspiring Python developer dedicated to growth and innovation.*
+## Projects
+
+**Finance Backend API** — [GitHub](#)
+Secure financial record system with JWT auth, custom RBAC, and real-time
+data aggregation. Built with Flask App Factory pattern and Blueprints.
+Tested with Pytest.
+
+**Flask JWT Blog API** — [GitHub](#) • [Live](#)
+Production-deployed REST API with JWT authorization, server-side pagination,
+and PostgreSQL on Render.
+
+**Order Delivery Billing System** — [GitHub](#)
+Modular billing application using Python OOP and polymorphism with automated
+discount logic.
+
+---
+
+## Tech Stack
+Python • Flask • PostgreSQL • SQLAlchemy • JWT • REST APIs • Pytest • Docker • Git
+
+---
+
+## Background
+Former customer service professional at Cochin International Airport.
+Transitioned into backend development through self-directed learning.
+B.Com (Finance) — University of Calicut.
+
+---
+
+📧 aqilmehaboob@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/aqil-m-a30ab41b9)
+📍 Calicut, Kerala — Open to Kochi/Remote roles
